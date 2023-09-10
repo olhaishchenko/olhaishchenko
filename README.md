@@ -1,4 +1,4 @@
 # Hello
 Ich bin Olha 🇺🇦.
 Я обожнюю математику.
-I learn English, Data Science and erman.
+I learn English, Data Science and German.
